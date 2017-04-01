@@ -27,4 +27,10 @@
 		android:text="External Storage Demo"
 		android:onClick="openExternalStorageDemoActivity"/>
 
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Camera App Demo"
+		android:onClick="openCameraActivity"/>
+
 </LinearLayout>
